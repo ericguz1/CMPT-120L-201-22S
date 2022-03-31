@@ -6,8 +6,9 @@
 
 
 from typing import Tuple
-savings = 1096.25
+
 checking = 1590.80
+savings = 1096.25
 
 def processingthetransaction(transactions):
     global checking
